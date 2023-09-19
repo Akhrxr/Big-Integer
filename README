@@ -1,4 +1,4 @@
- Arithmetic.cpp // The main program that will take one command line arguments giving an integer for the number of cards in a deck
+ Arithmetic.cpp // The main program that will can compute basic arithmetic for very large integers that the language cannot. This program uses linked lists in order to accomplish this task.
 
 
     List.h // Contains the public portion of the struct/class for operations in List.cpp
